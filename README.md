@@ -1,9 +1,5 @@
 # jacob.sevy
 
-## Description
-Test.
-
-
 <!-- <div id="badges", align="center">
   <a href="https://www">
     <img src="https://www" alt="ShortName"/>
@@ -27,7 +23,7 @@ Test.
 </div>
 
 
-<div>
+<div id="icons", align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/C/c-plain.svg" title="C plain" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/C/c-original.svg" title="C original" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/C/c-line.svg" title="C" alt="C line" width="40" height="40"/>&nbsp;
