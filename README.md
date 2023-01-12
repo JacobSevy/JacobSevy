@@ -1,7 +1,3 @@
-<div id="name", style="text-align: center; font-size: 300%; font-weight: bold; text-decoration: underline;">
-  Jacob Sevy
-</div>
-
 <div id="badges", align="center">
   <!-- https://shields.io/ -->
   <a href="https://www.linkedin.com/in/jacob-m-sevy">
