@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/jacob-m-sevy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <br>
   <a href="https://www.gitlab.com/jacob.sevy">
     <img src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab Badge"/>
   </a>
@@ -26,11 +26,9 @@
 
 ---
 
-<p style="text-align: left; font-size: 115%;">
-  I am a software engineer that works on projects mainly focused on Linux and UNIX based operating systems using C, Assembly, and Python languages.
-  I have experience primarily with CNO development, vulnerability research, and test driven development on various systems.
-</p>
+I am a software engineer that works on projects mainly focused on Linux and UNIX based operating systems using C, Assembly, and Python languages.
+I have experience primarily with CNO development, vulnerability research, and test driven development on various systems.
 
-<p>
+<sub>
   If you are curious about a private profile, you wouldn't build a house just to let strangers enter whenever they wanted, would you?
-</p>
+</sub>
