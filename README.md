@@ -1,6 +1,6 @@
-<div id="name", style="text-align: center; font-size: 300%; font-weight: bold; text-decoration: underline;">
+<h2 id="name", style="text-align: center; font-size: 300%; font-weight: bold; text-decoration: underline;">
   Jacob Sevy
-</div>
+</h2>
 
 <div id="badges", align="center">
   <!-- https://shields.io/ -->
